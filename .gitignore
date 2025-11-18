@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Python env
+venv/
+__pycache__/
+
+# Environment files
+.env
+backend/.env
+frontend/.env
+
+# MacOS junk
+.DS_Store
